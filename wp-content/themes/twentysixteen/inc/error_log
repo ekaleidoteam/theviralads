@@ -1,0 +1,2 @@
+[31-Oct-2018 00:32:55 Etc/GMT] PHP Fatal error:  Call to undefined function is_admin() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[04-Nov-2018 00:39:37 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/inc/customizer.php on line 61

@@ -1,0 +1,18 @@
+[09-Mar-2018 01:02:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/404.php on line 10
+[07-Oct-2018 00:43:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/search.php on line 10
+[07-Oct-2018 13:53:01 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 16:35:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/archive.php on line 19
+[08-Oct-2018 01:31:32 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/archive.php on line 19
+[11-Oct-2018 21:10:49 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Oct-2018 21:10:49 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/functions.php on line 32
+[12-Oct-2018 18:15:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/index.php on line 17
+[13-Oct-2018 15:18:32 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/single.php on line 10
+[14-Oct-2018 12:15:55 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/404.php on line 10
+[15-Oct-2018 08:53:03 Etc/GMT] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/footer.php on line 16
+[16-Oct-2018 06:18:44 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/image.php on line 10
+[17-Oct-2018 03:09:51 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/page.php on line 14
+[20-Oct-2018 06:35:14 Etc/GMT] PHP Fatal error:  Call to undefined function esc_url() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 08:39:48 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 14:07:39 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/sidebar.php on line 11
+[06-Jan-2019 11:28:17 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/404.php on line 10
+[08-Apr-2019 06:15:13 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/404.php on line 10

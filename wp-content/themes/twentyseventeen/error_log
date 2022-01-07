@@ -1,0 +1,24 @@
+[11-Mar-2018 21:36:20 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[19-Mar-2018 02:56:50 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[23-Mar-2018 02:04:56 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Jul-2018 02:42:33 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Oct-2018 10:07:58 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 12:01:00 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/index.php on line 18
+[20-Oct-2018 16:10:54 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 16:10:55 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 18:04:52 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 19:47:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 21:23:55 Etc/GMT] PHP Fatal error:  Call to undefined function esc_attr() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 23:08:14 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 00:47:55 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 00:47:56 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 16:37:05 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Oct-2018 06:01:09 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/page.php on line 18
+[31-Oct-2018 23:19:31 Etc/GMT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[01-Nov-2018 22:55:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/search.php on line 13
+[02-Nov-2018 22:51:40 Etc/GMT] PHP Fatal error:  Call to undefined function post_password_required() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[20-Oct-2019 00:34:25 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Nov-2019 23:01:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_part() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Dec-2019 23:44:38 Etc/GMT] PHP Notice:  Undefined index: wp_version in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[12-Dec-2019 23:44:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jun-2020 19:15:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/functions.php on line 16

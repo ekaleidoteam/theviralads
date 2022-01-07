@@ -1,0 +1,6 @@
+[06-Dec-2018 11:15:03 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 12:01:57 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 23:41:29 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 05:02:46 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 08:44:00 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 17:31:01 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

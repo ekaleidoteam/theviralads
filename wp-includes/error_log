@@ -1,0 +1,24 @@
+[14-Mar-2018 20:37:00 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-walker-nav-menu.php on line 17
+[23-Mar-2018 05:57:30 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/abhillx2/public_html/theviralads.com/wp-includes/locale.php on line 10
+[19-Nov-2018 20:56:50 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home/abhillx2/public_html/theviralads.com/wp-includes/template-loader.php on line 28
+[04-Dec-2019 09:45:56 Etc/GMT] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[04-Dec-2019 09:45:56 Etc/GMT] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[04-Dec-2019 09:45:56 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[04-Dec-2019 09:45:56 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[04-Dec-2019 09:45:56 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[16-Apr-2020 20:00:49 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[16-Apr-2020 20:00:49 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[19-Apr-2020 19:43:16 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[19-Apr-2020 19:43:16 Etc/GMT] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[19-Apr-2020 19:43:16 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/abhillx2/public_html/theviralads.com/wp-includes/functions.php on line 8
+[25-Apr-2020 15:26:05 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/abhillx2/public_html/theviralads.com/wp-includes/locale.php on line 10
+[27-Apr-2020 04:49:04 Etc/GMT] PHP Fatal error:  Class 'Walker' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-walker-nav-menu.php on line 17
+[03-Sep-2020 17:40:07 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 17:40:10 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 17:40:13 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 17:40:30 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 17:40:36 Etc/GMT] PHP Fatal error:  Class 'IXR_Server' not found in /home/abhillx2/public_html/theviralads.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[04-Sep-2020 07:06:13 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/abhillx2/public_html/theviralads.com/wp-includes/feed-atom-comments.php on line 8
+[04-Sep-2020 07:07:12 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/abhillx2/public_html/theviralads.com/wp-includes/feed-atom-comments.php on line 8
+[04-Sep-2020 13:17:30 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/abhillx2/public_html/theviralads.com/wp-includes/feed-atom-comments.php on line 8
+[04-Sep-2020 13:17:37 Etc/GMT] PHP Fatal error:  Call to undefined function feed_content_type() in /home/abhillx2/public_html/theviralads.com/wp-includes/feed-atom-comments.php on line 8

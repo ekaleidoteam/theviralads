@@ -1,0 +1,5 @@
+[27-Oct-2018 09:47:28 Etc/GMT] PHP Fatal error:  Call to undefined function _e() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 01:18:18 Etc/GMT] PHP Fatal error:  Call to undefined function apply_filters() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 02:51:48 Etc/GMT] PHP Fatal error:  Call to undefined function the_ID() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 08:51:04 Etc/GMT] PHP Fatal error:  Call to undefined function the_ID() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 11:11:41 Etc/GMT] PHP Fatal error:  Call to undefined function the_ID() in /home/abhillx2/public_html/theviralads.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
